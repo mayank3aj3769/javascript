@@ -1,0 +1,15 @@
+{
+  "name": "first_nodejs",
+  "version": "1.0.0",
+  "description": "My first nodejs tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1"
+  }
+}
