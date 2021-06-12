@@ -1,5 +1,7 @@
 'use strict';
 
+/*Two teams ,three scores each, winner exactly scores twice the avg . else no result  */ 
+
 const readline=require('readline-sync');
 var Dolphins = [];
 var Koalas=[];
